@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/sky.png</file>
+        <file>image/Bblack.png</file>
+        <file>image/black.png</file>
+        <file>image/blue.png</file>
+        <file>image/Bucket.png</file>
+        <file>image/Catapult_lower.png</file>
+        <file>image/Catapult_upper.png</file>
+        <file>image/ground.png</file>
+        <file>image/King_pig.png</file>
+        <file>image/KING_PIG_BOSS.png</file>
+        <file>image/normal_bird.png</file>
+        <file>image/quitbtn.png</file>
+        <file>image/rebtn.png</file>
+        <file>image/slingshot.png</file>
+        <file>image/wood1.png</file>
+        <file>image/wood2.png</file>
+        <file>image/yellow.png</file>
+        <file>image/wall.png</file>
+    </qresource>
+</RCC>
